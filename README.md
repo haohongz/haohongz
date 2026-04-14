@@ -44,15 +44,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="profile-summary-card-output/default/0-profile-details.svg" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=haohongz&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=4C8EDA&icon_color=4C8EDA&text_color=333333" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=haohongz&layout=compact&hide_border=true&bg_color=00000000&title_color=4C8EDA&text_color=333333" height="170" />
 </p>
 <p align="center">
-  <img src="profile-summary-card-output/default/1-repos-per-language.svg" height="170" />
-  <img src="profile-summary-card-output/default/2-most-commit-language.svg" height="170" />
-</p>
-<p align="center">
-  <img src="profile-summary-card-output/default/3-stats.svg" height="170" />
-  <img src="profile-summary-card-output/default/4-productive-time.svg" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=haohongz&hide_border=true&ring=4C8EDA&fire=4C8EDA&currStreakLabel=4C8EDA" />
 </p>
 
 ### 🐍 Contribution Snake
