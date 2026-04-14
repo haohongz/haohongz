@@ -42,15 +42,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/haohongz/haohongz/output-stats/default/0-profile-details.svg" />
+  <img src="profile-summary-card-output/default/0-profile-details.svg" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/haohongz/haohongz/output-stats/default/1-repos-per-language.svg" height="170" />
-  <img src="https://raw.githubusercontent.com/haohongz/haohongz/output-stats/default/2-most-commit-language.svg" height="170" />
+  <img src="profile-summary-card-output/default/1-repos-per-language.svg" height="170" />
+  <img src="profile-summary-card-output/default/2-most-commit-language.svg" height="170" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/haohongz/haohongz/output-stats/default/3-stats.svg" height="170" />
-  <img src="https://raw.githubusercontent.com/haohongz/haohongz/output-stats/default/4-productive-time.svg" height="170" />
+  <img src="profile-summary-card-output/default/3-stats.svg" height="170" />
+  <img src="profile-summary-card-output/default/4-productive-time.svg" height="170" />
 </p>
 
 ### 🐍 Contribution Snake
