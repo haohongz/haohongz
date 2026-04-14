@@ -11,7 +11,7 @@
 
 📊 Double Major in **Statistics** & **Data Science** (BS) , Minor in **Computer Science** & **Business** 
 
-🧠 Interested in **Causal Inference** · **Machine Learning** · **Biostatistics** · **TabPFN** · **Synthtic Data**
+🧠 Interested in **Causal Inference** · **Machine Learning(LLM)** · **Biostatistics** · **TabPFN** · **Synthtic Data** · **AI agent**
 
 🎯 Aspiring PhD Candidate (Stats/ Data Science / Precision Medicine / Biostat / ML / Computer Science) 
 
