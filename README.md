@@ -8,9 +8,9 @@
 ### 🎓 About Me
 
 🔬 Undergraduate Research Assistant @ University of Michigan, Ann Arbor  
-📊 Double Major in **Statistics** & **Data Science** (BS)  
-🧠 Interested in **Causal Inference** · **Machine Learning** · **Biostatistics**  
-🎯 Aspiring PhD Candidate (Stats / Biostat / ML)  
+📊 Double Major in **Statistics** & **Data Science** (BS) , Minor in **Computer Science** & **Business** 
+🧠 Interested in **Causal Inference** · **Machine Learning** · **Biostatistics** · **TabPFN** · **Synthtic Data**
+🎯 Aspiring PhD Candidate (Stats/ Data Science / Precision Medicine / Biostat / ML / Computer Science)  
 📫 Reach me at **haohongz@umich.edu**
 
 ---
