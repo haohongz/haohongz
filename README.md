@@ -13,7 +13,7 @@
 
 🧠 Interested in **Causal Inference** · **Reinforcement Learning** · **Deep Learning** · **Machine Learning(LLM)** · **Survival Analysis** · **Biostatistics** · **Synthetic Data** · **AI agent** · **Precision Medicine**
 
-🎯 Aspiring PhD Candidate (Stats/ Data Science / Precision Medicine / Biostat / ML / Computer Science) 
+🎯 Aspiring PhD Candidate (Stats/ Data Science / Precision Medicine / Biostats / LLM / Computer Science) 
 
 📫 Reach me at **haohongz@umich.edu**
 
